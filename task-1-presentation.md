@@ -11,5 +11,6 @@ in academic and collaborative work. The third section focuses on building a prof
 While creating the infographic, I found it interesting to combine visual elements like icons, colors, and structured layouts to present information clearly. One challenge 
 I faced was selecting the most relevant points and ensuring the design remained clean without overcrowding it with too much information.I created my Digital Literacy 
 infographic using Canva, as it provides an easy-to-use interface along with a variety of templates, icons, and design elements suitable for creating visually appealing
-content. The infographic is titled “Digital Literacy: A Smart Student Guide” and focuses on three key areas: understanding digital literacy, useful digital tools for students
-, and maintaining a professional online presence.
+content. The infographic is titled “Digital Literacy: A Smart Student Guide” and focuses on three key areas: understanding digital literacy, useful digital tools for students, and maintaining a professional online presence.
+
+<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3e4d640-830b-4bac-b9d6-9d0c56613ea5" />
