@@ -22,7 +22,8 @@ Over the next four years, I will regularly update these platforms by adding proj
 <br>
    <img width="1222" height="704" alt="image" src="https://github.com/user-attachments/assets/3a13ce12-5149-481d-bb84-73613841196a" />
 
-5. Kaggle
+3. Kaggle
+<br>
    <img width="1408" height="527" alt="image" src="https://github.com/user-attachments/assets/ff2ac6d6-dc3b-4a12-a53e-94c92371fea3" />
 
     
