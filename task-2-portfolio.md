@@ -9,3 +9,8 @@ LinkedIn is a professional networking platform where I added my education detail
 Kaggle is used for data science practice, competitions, and datasets. I plan to use it to improve my problem-solving and machine learning skills.
 
 Over the next four years, I will regularly update these platforms by adding projects, participating in competitions, and networking. This will help me build a strong portfolio for internships and placements.
+
+##Screenshots :
+
+1. Github
+   
