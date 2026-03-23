@@ -13,4 +13,8 @@ Over the next four years, I will regularly update these platforms by adding proj
 ##Screenshots :
 
 1. Github
+   <img width="1634" height="696" alt="image" src="https://github.com/user-attachments/assets/7a1a0a85-1d1a-4ef0-85b9-4fde19117398" />
+
+2  
+
    
