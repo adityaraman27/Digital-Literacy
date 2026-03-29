@@ -49,7 +49,7 @@ These platforms help in building a professional online presence.
 - Created a social media do’s and don’ts checklist
 - Learned proper digital communication practices
 
- ###Task 5 – Cybercrime Awareness
+ ### Task 5 – Cybercrime Awareness
 - Studied ransomware case study
 - Created a prevention checklist
 - Learned about online safety and cyber threats 
