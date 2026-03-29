@@ -34,9 +34,9 @@ Created an infographic using Canva to explain digital literacy, safe internet pr
 
 Set up profiles on:
 
--GitHub
--LinkedIn
--Kaggle
+- GitHub
+- LinkedIn
+- Kaggle
 
 These platforms help in building a professional online presence.
 
