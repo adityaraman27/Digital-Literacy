@@ -44,3 +44,8 @@ These platforms help in building a professional online presence.
 - Practised coding on HackerRank
 - Created a quiz using Google Forms
 
+### Task 4 – Email Etiquette
+- Drafted professional emails
+- Created a social media do’s and don’ts checklist
+- Learned proper digital communication practices  
+
