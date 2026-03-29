@@ -13,9 +13,9 @@
 It includes five tasks covering topics such as digital awareness, online portfolio creation, coding platforms, professional communication, and cybercrime awareness.
 
 ## Repository Structure
-report/ → Contains the final project report (PDF)
-task-1-presentation/ → Digital Literacy infographic
-task-2-portfolio/ → Screenshots of GitHub, LinkedIn, and Kaggle profiles
-task-3-platforms/ → HackerRank activity and Google Form screenshots
-task-4-email-etiquette/ → Professional emails and social media checklist
-task-5-cybercrime/ → Case study and prevention checklist
+- report/ → Contains the final project report (PDF)
+- task-1-presentation/ → Digital Literacy infographic
+- task-2-portfolio/ → Screenshots of GitHub, LinkedIn, and Kaggle profiles
+- task-3-platforms/ → HackerRank activity and Google Form screenshots
+- task-4-email-etiquette/ → Professional emails and social media checklist
+- task-5-cybercrime/ → Case study and prevention checklist
