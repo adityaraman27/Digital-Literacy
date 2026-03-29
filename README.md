@@ -15,25 +15,31 @@ It includes five tasks covering topics such as digital awareness, online portfol
 ## Repository Structure
 digital-literacy-project/
 │── README.md
+
 │── report/
 │   └── Project_Report.pdf
 │
+
 │── task-1-presentation/
 │   └── infographic.png
 │
+
 │── task-2-portfolio/
 │   └── profile-screenshots/
 │
+
 │── task-3-platforms/
 │   ├── hackerrank-proof.png
 │   ├── google-form.png
 │   └── responses-sheet.png
 │
+
 │── task-4-email-etiquette/
 │   ├── email1.txt
 │   ├── email2.txt
 │   └── social-media-checklist.md
 │
+
 │── task-5-cybercrime/
 │   ├── casestudy.md
 │   └── prevention-checklist.md
