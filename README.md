@@ -47,5 +47,10 @@ These platforms help in building a professional online presence.
 ### Task 4 – Email Etiquette
 - Drafted professional emails
 - Created a social media do’s and don’ts checklist
-- Learned proper digital communication practices  
+- Learned proper digital communication practices
+
+ ###Task 5 – Cybercrime Awareness
+- Studied ransomware case study
+- Created a prevention checklist
+- Learned about online safety and cyber threats 
 
