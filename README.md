@@ -12,9 +12,9 @@
  Course: CSE0001 – Digital Literacy
 
  ## Project Overview
- This repository contains my Digital Literacy Project completed as part of the CSE0001 course at VIT Bhopal University. The project focuses on developing essential digital skills required for academic and professional growth.
+This repository includes my Digital Literacy Project that was undertaken as part of my course in CSE0001 in VIT Bhopal University. This project is centered on developing digital literacy skills that are essential for academic and professional development.
 
-It includes five tasks covering topics such as digital awareness, online portfolio creation, coding platforms, professional communication, and cybercrime awareness.
+This project includes five tasks on digital awareness, creation of online portfolios, coding platforms, professional communication, and cybercrime awareness.
 
 ## Repository Structure
 - report/ → Contains the final project report (PDF)
