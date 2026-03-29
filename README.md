@@ -61,3 +61,9 @@ These platforms help in building a professional online presence.
  ### Kaggle -
  ### Github - 
 
+## Learning Outcomes - 
+- Importance of digital literacy in daily life
+- Building a professional online presence
+- Basics of coding and collaboration tools
+- Writing professional emails
+- Awareness about cybercrime and online safety
