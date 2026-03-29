@@ -24,42 +24,40 @@ This project includes five tasks on digital awareness, creation of online portfo
 - task-4-email-etiquette/ → Professional emails and social media checklist
 - task-5-cybercrime/ → Case study and prevention checklist
 
-## Task Summary
+Task 1 – Digital Literacy Infographic
 
-### Task 1 – Digital Literacy Infographic
-
-Created an infographic using Canva to explain digital literacy, safe internet practices, and useful tools for students.
+Designed an infographic using Canva to illustrate digital literacy, internet etiquette, and digital tools that can be used by students.
 
 ### Task 2 – Digital Portfolio
 
-Set up profiles on:
+Created profiles on:
 
 - GitHub
 - LinkedIn
 - Kaggle
 
-These platforms help in building a professional online presence.
+These websites can assist with creating an online professional presence.
 
 ### Task 3 – Platforms Exploration
-- Practised coding on HackerRank
+- Practiced coding using HackerRank
 - Created a quiz using Google Forms
 
 ### Task 4 – Email Etiquette
-- Drafted professional emails
-- Created a social media do’s and don’ts checklist
-- Learned proper digital communication practices
+- Composed professional emails
+- Created a checklist on dos and don’ts on social media
+- Learnt about digital communication etiquette
 
  ### Task 5 – Cybercrime Awareness
-- Studied ransomware case study
-- Created a prevention checklist
-- Learned about online safety and cyber threats
+- Learnt about ransomware case study
+- Created a checklist on how to prevent cybercrime
+- Learnt about online safety and cyber threats
 
 ## Learning Outcomes - 
-- Importance of digital literacy in daily life
-- Building a professional online presence
-- Basics of coding and collaboration tools
+- Importance of digital literacy in real life
+- Creating an online professional presence
+- Basic coding and coding tools
 - Writing professional emails
-- Awareness about cybercrime and online safety
+- Awareness about cybercrime and online safety Awareness about cybercrime and online safety
 
  ## Refernces 
  -
