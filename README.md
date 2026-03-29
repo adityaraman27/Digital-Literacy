@@ -23,3 +23,10 @@ It includes five tasks covering topics such as digital awareness, online portfol
 - task-3-platforms/ → HackerRank activity and Google Form screenshots
 - task-4-email-etiquette/ → Professional emails and social media checklist
 - task-5-cybercrime/ → Case study and prevention checklist
+
+## Task Summary
+
+### Task 1 – Digital Literacy Infographic
+
+Created an infographic using Canva to explain digital literacy, safe internet practices, and useful tools for students.
+
