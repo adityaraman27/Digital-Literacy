@@ -14,6 +14,7 @@ It includes five tasks covering topics such as digital awareness, online portfol
 
 ## Repository Structure
 digital-literacy-project
+
 ─ README.md
 ─ report
    ─ Project_Report.pdf
