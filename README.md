@@ -12,4 +12,4 @@
 
 It includes five tasks covering topics such as digital awareness, online portfolio creation, coding platforms, professional communication, and cybercrime awareness.
 
-## 
+## Repository Structure
