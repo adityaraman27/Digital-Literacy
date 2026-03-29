@@ -16,29 +16,29 @@ It includes five tasks covering topics such as digital awareness, online portfol
 digital-literacy-project/
 ─ README.md
 ─ report/
-   └── Project_Report.pdf
+   ─ Project_Report.pdf
 
 ─ task-1-presentation/
-   └── infographic.png
+   ─ infographic.png
 
 ─ task-2-portfolio/
-   └── profile-screenshots/
+   ─ profile-screenshots/
 
 ─ task-3-platforms/
-   ├── hackerrank-proof.png
-   ├── google-form.png
-   └── responses-sheet.png
+   ─ hackerrank-proof.png
+   ─ google-form.png
+   ─ responses-sheet.png
 
 ─ task-4-email-etiquette/
-   ├── email1.txt
-   ├── email2.txt
-   └── social-media-checklist.md
+   ─ email1.txt
+   ─ email2.txt
+   ─ social-media-checklist.md
 
 ─ task-5-cybercrime/
-   ├── casestudy.md
-   └── prevention-checklist.md
+   ─ casestudy.md
+   ─ prevention-checklist.md
 
 
 ─ task-5-cybercrime/
-   ├── casestudy.md
-   └── prevention-checklist.md
+   ─ casestudy.md
+   ─ prevention-checklist.md
