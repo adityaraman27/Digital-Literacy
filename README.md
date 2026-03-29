@@ -40,3 +40,7 @@ Set up profiles on:
 
 These platforms help in building a professional online presence.
 
+### Task 3 – Platforms Exploration
+Practised coding on HackerRank
+Created a quiz using Google Forms
+
