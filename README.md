@@ -2,9 +2,13 @@
 
 ## Student Details
  Name - Aditya Raman
+ 
  Registration Number - 25BCE10048
+ 
  Branch - B.Tech Cse Core
+ 
  Year - First Year
+ 
  Course: CSE0001 – Digital Literacy
 
  ## Project Overview
