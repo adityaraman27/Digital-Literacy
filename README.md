@@ -24,7 +24,7 @@ This project includes five tasks on digital awareness, creation of online portfo
 - task-4-email-etiquette/ → Professional emails and social media checklist
 - task-5-cybercrime/ → Case study and prevention checklist
 
-Task 1 – Digital Literacy Infographic
+### Task 1 – Digital Literacy Infographic
 
 Designed an infographic using Canva to illustrate digital literacy, internet etiquette, and digital tools that can be used by students.
 
