@@ -30,3 +30,13 @@ It includes five tasks covering topics such as digital awareness, online portfol
 
 Created an infographic using Canva to explain digital literacy, safe internet practices, and useful tools for students.
 
+### Task 2 – Digital Portfolio
+
+Set up profiles on:
+
+-GitHub
+-LinkedIn
+-Kaggle
+
+These platforms help in building a professional online presence.
+
