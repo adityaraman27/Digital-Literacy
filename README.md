@@ -60,12 +60,15 @@ These websites can assist with creating an online professional presence.
 - Awareness about cybercrime and online safety Awareness about cybercrime and online safety
 
  ## Refernces 
- -
- -
- -
- -
- -
- -
- -
+ - https://www.canva.com
+ - https://github.com
+ - https://www.linkedin.com
+ - https://www.kaggle.com
+ - https://www.hackerrank.com
+ - https://forms.google.com
+ - https://cybercrime.gov.in
+ 
+
+ 
 
   
